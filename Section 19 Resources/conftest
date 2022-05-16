@@ -1,0 +1,11 @@
+
+
+
+
+https://www.conftest.dev/
+
+
+
+
+docker run --rm -v $(pwd):/project openpolicyagent/conftest test deployment.yaml
+

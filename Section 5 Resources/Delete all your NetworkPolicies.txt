@@ -1,0 +1,1 @@
+DELETE ALL existing NetworkPolicies from previous session. 

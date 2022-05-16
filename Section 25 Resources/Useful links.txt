@@ -1,0 +1,5 @@
+Link for Annotations
+https://kubernetes.io/docs/tutorials/security/apparmor/#pod-annotation
+
+Link for Seccomp pod file
+https://kubernetes.io/docs/tutorials/security/seccomp/

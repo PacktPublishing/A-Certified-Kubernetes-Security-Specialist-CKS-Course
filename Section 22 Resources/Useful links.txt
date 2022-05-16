@@ -1,0 +1,5 @@
+Linux Manual Pages
+https://man7.org/linux/man-pages/dir_all_alphabetic.html
+
+FALCO (Supported Fields for Conditions and Outputs)
+https://falco.org/docs/rules/supported-fields/

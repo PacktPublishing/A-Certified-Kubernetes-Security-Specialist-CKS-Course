@@ -1,0 +1,6 @@
+gvisor
+(Not mandatory this is optional for you, this wont be a part of any exam and if you want to run containerd instead of Docker then you can try this.)
+
+
+
+To install gvisor just run this script 'gvisor.txt' on your worker node and the pod which we have created with another class will be in ready state. After that make sure you delete the worker node and create another to join this cluster if you dont want to use gvisor (containerd) instead of Docker.

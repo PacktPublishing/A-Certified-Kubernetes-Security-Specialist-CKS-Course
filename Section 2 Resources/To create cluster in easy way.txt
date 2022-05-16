@@ -1,0 +1,3 @@
+To create cluster in easy way just download these files
+
+To create cluster in easy way just download the files 'matser.sh' and 'worker.sh' and run matser.sh on master node and worker.sh on worker node. Your cluster will be ready in couple of minutes.
